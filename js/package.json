@@ -6,7 +6,7 @@
     "type": "git",
     "url": "https://github.com/evanw/thumbhash"
   },
-  "type": "module",
+  "types": "thumbhash.d.ts",
   "main": "thumbhash.js",
   "license": "MIT"
 }
